@@ -6,17 +6,21 @@
   </h1>
   
   <p align="center">
-   <strong> OI me Chamo Felipe , sou um estudante de desenvolvimento web FullStack,estou cursando no DEVCLUB, no momento estou focando os meus estudos a maior parte em ser um desenvolvedor Front-end. 
-Sempre fui apaixonado pela tecnologia e tendo isso em vista conheci a progamação e foi amor a pimeira vista, com isto vejo que a cada dia que passa eu vou aprofundadno os meus conhecimentos no mundo dev.
-eu sou uma pessoa que vejo que todo dia tenho algo novo a se aprender e que eu sei que nunca serei perfeito mas sempre busco o melhor de mim para tudo o que eu  faço sempre colocando a minha lma em tudo oq ue eu faço como se eu estivesse fazendo apra Deus isso mesmo é assim que eu penso.
-Dentro disso estou sempre me atualizando e estudando e lendo so livros pois e uma outra paixão.
+   <strong> OI me Chamo Felipe , sou um desenvolvedor web FullStack,estou cursando no DEVCLUB, no momento estou focando os meus estudos a maior parte em ser um desenvolvedor Front-end. 
+Sempre fui apaixonado pela tecnologia e tendo isso em vista conheci a progamação, e foi amor a pimeira vista, com isto vejo que a cada dia que passa eu vou aprofundadno os meus conhecimentos no mundo dev.
+eu sou uma pessoa que vejo que todo dia tenho algo novo a se aprender e que eu sei que nunca serei perfeito mas sempre busco o melhor de mim para tudo o que eu  faço sempre colocando a minha alma em tudo oque eu faço, como se eu estivesse fazendo para Deus isso mesmo, é assim que eu penso.
+Dentro disso estou sempre me atualizando e estudando e lendo livros pois e uma outra paixão.
 
-Atualemnte estou estudando HTML,CSS,GIT e GITHUB, sempre estou me desafiando e fazendo projetos e subindo eles para o meu GitHub e postando no meu linkedin.
+Atualemnte estou estudando 
+     HTML
+     CSS
+     GIT e GITHUB
+     Sempre estou me desafiando e fazendo projetos e subindo eles para o meu GitHub e postando no meu linkedin.
     <strong>
   </p>
   
   <p align="center">
-    Sempre estarei postando os meus Projetos no meu linkedin vai lá dar uma olhada e já aporveita e da uma curtida la em ✌
+    Sempre estarei postando os meus Projetos no meu linkedin vai lá dar uma olhada e já aporveita e da uma curtida la a sua curtida vai me ajudar e eme motivar a sempre continuar. ✌
   </p>
   
 </div>
