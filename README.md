@@ -8,10 +8,10 @@
   <p align="center">
    <strong> OI me Chamo Felipe , sou um desenvolvedor web FullStack,estou cursando no DEVCLUB, no momento estou focando os meus estudos a maior parte em ser um desenvolvedor Front-end. 
 Sempre fui apaixonado pela tecnologia e tendo isso em vista conheci a progamação, e foi amor a pimeira vista, com isto vejo que a cada dia que passa eu vou aprofundadno os meus conhecimentos no mundo dev.
-eu sou uma pessoa que vejo que todo dia tenho algo novo a se aprender e que eu sei que nunca serei perfeito mas sempre busco o melhor de mim para tudo o que eu  faço sempre colocando a minha alma em tudo oque eu faço, como se eu estivesse fazendo para Deus isso mesmo, é assim que eu penso.
+eu sou uma pessoa que vejo que todo dia tenho algo novo a se aprender e que eu sei que nunca serei perfeito mas sempre busco o melhor de mim para tudo o que eu  faço sempre colocando a minha alma em tudo o que eu faço, como se eu estivesse fazendo para Deus isso mesmo, é assim que eu penso.
 Dentro disso estou sempre me atualizando e estudando e lendo livros pois e uma outra paixão.
 
-Atualemnte estou estudando 
+    Atualemnte estou estudando 
      HTML
      CSS
      GIT e GITHUB
